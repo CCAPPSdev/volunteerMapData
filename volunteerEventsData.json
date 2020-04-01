@@ -10,17 +10,17 @@
 		"type": "Feature",
 		"properties": {
 			"ID": "abc123",
-			"EVENT_NAME": "Elden's house",
-			"ORGANIZATION_NAME": "",
-			"WEB_ADDRESS": "",
-			"ADDRESS": "",
-			"EVENT_DESCRIPTION": "",
-			"EVENT_TIME": "",
-			"EVENT_REQUIREMENTS": ""
+			"EVENT_NAME": "Programming Volunteer Map",
+			"ORGANIZATION_NAME": "CCA PPS CLUB",
+			"WEB_ADDRESS": "cc.sduhsd.net",
+			"ADDRESS": "5951 Village Center Loop Rd., San Diego, CA 92130",
+			"EVENT_DESCRIPTION": "Writing the code for volunteer map",
+			"EVENT_TIME": "3/29-4/1",
+			"EVENT_REQUIREMENTS": "Must be member of CCA PPS Club"
 		},
 		"geometry": {
 			"type": "Point",
-			"coordinates": [32.971180, -117.184050]
+			"coordinates": [32.959076, -117.189430]
 		}
 	}]
 }
