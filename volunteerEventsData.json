@@ -8,8 +8,8 @@
       {
         "type": "Feature",
         "properties": {
-          "ID": "",
-          "EVENT_NAME": "",
+          "ID": "trial1",
+          "EVENT_NAME": "hello",
           "ORGANIZATION_NAME": "",
           "WEB_ADDRESS": "",
           "ADDRESS": "",
