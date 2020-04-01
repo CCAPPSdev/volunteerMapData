@@ -1,24 +1,26 @@
 {
-  "type": "FeatureCollection",
-  "crs": {
-    "type": "name",
-    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "ID": "avdnvs",
-      "EVENT_NAME": "Hello",
-      "ORGANIZATION_NAME": "",
-      "WEB_ADDRESS": "",
-      "ADDRESS": "",
-      "EVENT_DESCRIPTION": "",
-      "EVENT_TIME": "",
-      "EVENT_REQUIREMENTS": "",
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [0, 0]
-    }
-  }
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"ID": "abc123",
+			"EVENT_NAME": "Elden's house",
+			"ORGANIZATION_NAME": "",
+			"WEB_ADDRESS": "",
+			"ADDRESS": "",
+			"EVENT_DESCRIPTION": "",
+			"EVENT_TIME": "",
+			"EVENT_REQUIREMENTS": ""
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [32.971180, -117.184050]
+		}
+	}]
 }
