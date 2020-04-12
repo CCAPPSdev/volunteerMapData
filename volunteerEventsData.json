@@ -24,7 +24,7 @@
 			"Fridays: 8 am - 4 pm",
 			"Saturdays: 8 am - 4 pm"
 		      ],
-		"EVENT_REQUIREMENTS": "All volunteers must schedule an appointment beforehand",
+		"EVENT_REQUIREMENTS": ["All volunteers must schedule an appointment beforehand"],
 		"REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
 		"SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/4&_ga=2.126204558.2072659069.1586648718-717427476.1586648718",
 		"START_DATE": "4/11/2020",
