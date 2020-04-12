@@ -14,7 +14,7 @@
 		"ORGANIZATION_NAME": "San Diego Blood Bank",
 		"WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
 		"ADDRESS": "3636 Gateway Center Avenue, Suite 100 San Diego, CA 92102",
-		"EVENT_DESCRIPTION": "San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations.",
+		"EVENT_DESCRIPTION": ["San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."],
 		"EVENT_TIME": [
 			"Sundays: 8 am - 4 pm",
 			"Mondays: 8 am - 4 pm",
