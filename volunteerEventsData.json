@@ -15,7 +15,15 @@
 		"WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
 		"ADDRESS": "3636 Gateway Center Avenue, Suite 100 San Diego, CA 92102",
 		"EVENT_DESCRIPTION": "San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations.",
-		"EVENT_TIME": "Sundays: 8 am - 4 pm\n Mondays: 8 am - 4 pm\n Tuesdays: 10 am - 6 pm\n Wednesdays: 10 am - 6 pm\n Thursdays: 8 am - 4 pm\n Fridays: 8 am - 4 pm\n Saturdays: 8 am - 4 pm",
+		"EVENT_TIME": [
+			"Sundays: 8 am - 4 pm",
+			"Mondays: 8 am - 4 pm",
+			"Tuesdays: 10 am - 6 pm",
+			"Wednesdays: 10 am - 6 pm",
+			"Thursdays: 8 am - 4 pm",
+			"Fridays: 8 am - 4 pm",
+			"Saturdays: 8 am - 4 pm"
+		      ],
 		"EVENT_REQUIREMENTS": "All volunteers must schedule an appointment beforehand",
 		"REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
 		"SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/4&_ga=2.126204558.2072659069.1586648718-717427476.1586648718",
