@@ -10,7 +10,7 @@
 	      "type": "Feature",
 	      "properties": {
 		"ID": "8d8445a7d2418bbee43ca6d3e8587aff",
-		"EVENT_NAME": "test",
+		"EVENT_NAME": "SAN DIEGO BLOOD BANK GATEWAY DONOR CENTER",
 		"ORGANIZATION_NAME": "San Diego Blood Bank",
 		"WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
 		"ADDRESS": "3636 Gateway Center Avenue, Suite 100 San Diego, CA 92102",
@@ -34,5 +34,34 @@
 		"type": "Point",
 		"coordinates": [32.714060, -117.113380]
 	      }
-    }]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+      "ID": "8d842317d2418bbee43ca6d3e8587aff",
+      "EVENT_NAME": "EAST COUNTY DONOR CENTER",
+      "ORGANIZATION_NAME": "San Diego Blood Bank",
+      "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
+      "ADDRESS": "776 Arnele Ave, El Cajon, CA 92020",
+      "EVENT_DESCRIPTION": ["San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."],
+      "EVENT_TIME": [
+          "Sundays: 8 am - 4 pm",
+          "Mondays: 8 am - 4 pm",
+          "Tuesdays: 10 am - 6 pm",
+          "Wednesdays: 10 am - 6 pm",
+          "Thursdays: 8 am - 4 pm",
+          "Fridays: 8 am - 4 pm",
+          "Saturdays: 8 am - 4 pm"
+            ],
+      "EVENT_REQUIREMENTS": ["All volunteers must schedule an appointment beforehand"],
+      "REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
+      "SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/4",
+      "START_DATE": "4/11/2020",
+      "END_DATE": "4/30/2020"
+        },
+        "geometry": {
+      "type": "Point",
+      "coordinates": [32.8042707,-116.974469]
+        }
+  }]
 }
