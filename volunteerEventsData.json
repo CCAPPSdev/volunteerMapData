@@ -10,7 +10,7 @@
 	      "type": "Feature",
 	      "properties": {
 		"ID": "8d8445a7d2318bbee43ca6d3e8587aff",
-		"EVENT_NAME": "SAN DIEGO BLOOD BANK GATEWAY DONOR CENTER",
+		"EVENT_NAME": "test",
 		"ORGANIZATION_NAME": "San Diego Blood Bank",
 		"WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
 		"ADDRESS": "3636 Gateway Center Avenue, Suite 100 San Diego, CA 92102",
