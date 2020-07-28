@@ -11,6 +11,7 @@
             "type": "Feature",
             "properties": {
                 "ID": "8d8445a7d2418bbee43ca6d3e8587afp",
+                "type": "permanent",
                 "EVENT_NAME": "SAN DIEGO BLOOD BANK GATEWAY DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
                 "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
@@ -47,6 +48,7 @@
             "type": "Feature",
             "properties": {
                 "ID": "8d842317d2418bbee43ca6d3e8587afm",
+                "type": "permanent",
                 "EVENT_NAME": "EAST COUNTY DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
                 "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
@@ -83,6 +85,7 @@
             "type": "Feature",
             "properties": {
                 "ID": "8d842317d2418bbee43ca6d3e8587afq",
+                "type": "permanent",
                 "EVENT_NAME": "NORTH COUNTY DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
                 "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
@@ -118,6 +121,7 @@
             "type": "Feature",
             "properties": {
                 "ID": "8d842317d2418bbee43ca6d3e8587afg",
+                "type": "permanent",
                 "EVENT_NAME": "SABRE SPRINGS DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
                 "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
@@ -153,6 +157,7 @@
             "type": "Feature",
             "properties": {
                 "ID": "8d842317d2418bbee43ca6d3e8587aft",
+                "type": "permanent",
                 "EVENT_NAME": "CARMEL VALLEY DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
                 "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
@@ -188,6 +193,7 @@
             "type": "Feature",
             "properties": {
                 "ID": "8d842317d2418bbee43ca6d3e8587afl",
+                "type": "permanent",
                 "EVENT_NAME": "COASTAL DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
                 "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
@@ -223,6 +229,7 @@
             "type": "Feature",
             "properties": {
                 "ID": "8d842317d2418bbee43ca6d3e8587aff",
+                "type": "permanent",
                 "EVENT_NAME": "LIBERTY STATION TEMPORARY DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
                 "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
