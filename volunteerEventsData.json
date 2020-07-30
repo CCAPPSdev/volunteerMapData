@@ -11,7 +11,7 @@
             "type": "Feature",
             "properties": {
                 "ID": "8d8445a7d2418bbee43ca6d3e8587afp",
-                "type": "permanent",
+                "type": "environmental",
                 "EVENT_NAME": "SAN DIEGO BLOOD BANK GATEWAY DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
                 "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
