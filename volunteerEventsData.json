@@ -3,7 +3,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ID": "8d8445a7d2418bbee43ca6d3e8587afp",
+                "ID": "ae22eb5319a285e7578e0a9dd0fef186",
                 "type": "permanent",
                 "EVENT_NAME": "SAN DIEGO BLOOD BANK GATEWAY DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
@@ -40,7 +40,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ID": "8d842317d2418bbee43ca6d3e8587afm",
+                "ID": "9a19f3f856225107b2d32ede34b9907f",
                 "type": "permanent",
                 "EVENT_NAME": "EAST COUNTY DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
@@ -77,7 +77,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ID": "8d842317d2418bbee43ca6d3e8587afq",
+                "ID": "f6e3048b557198b8395e210145afe57b",
                 "type": "permanent",
                 "EVENT_NAME": "NORTH COUNTY DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
@@ -113,7 +113,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ID": "8d842317d2418bbee43ca6d3e8587afg",
+                "ID": "fd18eccc66ac896c5a6f7a466bc3f899",
                 "type": "permanent",
                 "EVENT_NAME": "SABRE SPRINGS DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
@@ -149,7 +149,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ID": "8d842317d2418bbee43ca6d3e8587aft",
+                "ID": "76e93e8aa9266021dfe3d42fa68b76aa",
                 "type": "permanent",
                 "EVENT_NAME": "CARMEL VALLEY DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
@@ -185,7 +185,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ID": "8d842317d2418bbee43ca6d3e8587afl",
+                "ID": "9e85e089eabece9ad32e0b3218df68f1",
                 "type": "permanent",
                 "EVENT_NAME": "COASTAL DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
@@ -221,7 +221,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ID": "8d842317d2418bbee43ca6d3e8587aff",
+                "ID": "b710e2df8884a457722bb55edc2ad3c6",
                 "type": "permanent",
                 "EVENT_NAME": "LIBERTY STATION TEMPORARY DONOR CENTER",
                 "ORGANIZATION_NAME": "San Diego Blood Bank",
@@ -251,6 +251,36 @@
                 "type": "Point",
                 "coordinates": [
                     32.7365652,-117.2187791
+                ]
+            }
+        },
+          {
+            "type": "Feature",
+            "properties": {
+                "ID": "02299f2a6932f218b3f42f4f449e5ca7",
+                "type": "permanent",
+                "EVENT_NAME": "",
+                "ORGANIZATION_NAME": "The San Diego River Park Foundation",
+                "WEB_ADDRESS": "https://sandiegoriver.org/",
+                "ADDRESS": "4891 Pacific Highway, Suite 114, San Diego, CA 92110",
+                "EVENT_DESCRIPTION": [
+                    "The San Diego River Park Foundation is dedicated to fostering stewardship and appreciation of the region’s namesake waterway. In order to protect and enhance the San Diego River as a place for recreation, habitat, and nature discovery, we are dedicated to engaging people to be stewards of the River and working towards the vision of a 52 mile, river-long system of parks, open spaces, and community places."
+                ],
+                "EVENT_TIME": [
+                    "9:00am - 5:00pm, M-F"
+                ],
+                "EVENT_REQUIREMENTS": [
+                    "All volunteers must schedule an appointment beforehand"
+                ],
+                "REQUIREMENTS_LINK": "",
+                "SIGNUP_LINK": "https://sandiegoriver.org/volunteer.html",
+                "START_DATE": "",
+                "END_DATE": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.76385,-117.20341
                 ]
             }
         }
