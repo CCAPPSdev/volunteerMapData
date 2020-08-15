@@ -254,7 +254,7 @@
                 ]
             }
         },
-          {
+         {
             "type": "Feature",
             "properties": {
                 "ID": "02299f2a6932f218b3f42f4f449e5ca7",
@@ -281,6 +281,36 @@
                 "type": "Point",
                 "coordinates": [
                     32.76385,-117.20341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "cfaea2427c702914f9e1c0a6cf393c2e",
+                "type": "permanent",
+                "EVENT_NAME": "",
+                "ORGANIZATION_NAME": "I Love A Clean San Diego",
+                "WEB_ADDRESS": "https://www.ilacsd.org/",
+                "ADDRESS": "5797 Chesapeake Court Suite 200, San Diego, CA 92123",
+                "EVENT_DESCRIPTION": [
+                    "Our Mission: I Love A Clean San Diego leads and inspires our community to actively conserve and enhance the environment through example, outreach, and local involvement. Our Vision: A zero waste, litter-free, and environmentally engaged San Diego region. "
+                ],
+                "EVENT_TIME": [
+                    "M-F 9am-5pm PDT excluding federal holidays"
+                ],
+                "EVENT_REQUIREMENTS": [
+                    ""
+                ],
+                "REQUIREMENTS_LINK": "",
+                "SIGNUP_LINK": "https://www.ilacsd.org/",
+                "START_DATE": "",
+                "END_DATE": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.83884,-117.12903
                 ]
             }
         }
