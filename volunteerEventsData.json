@@ -313,6 +313,39 @@
                     32.83884,-117.12903
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "56a25ac8047fd83adc2e1f152c04cd11",
+                "type": "environmental",
+                "EVENT_NAME": "Monthly Native Plant Garden Work Party",
+                "ORGANIZATION_NAME": "Friends of Rose Creek",
+                "WEB_ADDRESS": "http://saverosecreek.org/",
+                "ADDRESS": "2525 Garnet Ave, San Diego, CA 92109",
+                "EVENT_DESCRIPTION": [
+                    "Meet behind the Rose Creek Cottage 2525 Garnet Ave in Pacific Beach. Park on Fogg Street just South of Garnet.",
+                    "Join the Friends of Rose Creek on the Second Saturday of every month from 9 a.m. until 11 a.m. while we work on The Nature School’s native plant interpretive garden behind Rose Creek Cottage. Enjoy weeding, watering, removing invasive non-native plants and trash, and planting native species (fall and winter months) and get involved with your creek and your community. Easy one to two hours project – great for children of all ages.",
+                    "Perfect for community service credit hours. Please wear sunscreen, closed-toe shoes, and a hat. Volunteers should bring water and heavy-duty work or gardening gloves. More information Karin 858-405-7503 or via email.",
+                    "Heavy rain cancels. Drizzle means we work."
+                ],
+                "EVENT_TIME": [
+                    "9 am to 11 am"
+                ],
+                "EVENT_REQUIREMENTS": [
+                    "No children under 13 without an adult present"
+                ],
+                "REQUIREMENTS_LINK": "",
+                "SIGNUP_LINK": "http://saverosecreek.org/?page_id=993&event_id=367",
+                "START_DATE": "9/12/2020",
+                "END_DATE": "9/12/2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8048,-117.224
+                ]
+            }
         }
     ]
 }
