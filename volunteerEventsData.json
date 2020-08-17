@@ -346,6 +346,46 @@
                     32.8048,-117.224
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "c70fed02254338e6bb28213b264c3132",
+                "type": "permanent",
+                "EVENT_NAME": "",
+                "ORGANIZATION_NAME": "Living Coast Discovery Center",
+                "WEB_ADDRESS": "https://www.thelivingcoast.org/volunteer",
+                "ADDRESS": "1000 Gunpowder Point Dr, Chula Vista, CA 91910",
+                "EVENT_DESCRIPTION": [
+                    "The Living Coast Discovery Center is a 501(c)(3) zoo and aquarium located on Sweetwater Marsh National Wildlife Refuge on San Diego Bay. Founded in 1987 as the Chula Vista Nature Interpretive Center, we have served the San Diego community for over 30 years. We are open to the public every day of the week.",
+                    "We are a community of staff, over 300 volunteers, hundreds of animals & plants, and a nationwide base of partners."
+                ],
+                "EVENT_TIME": [
+                    ""
+                ],
+                "EVENT_REQUIREMENTS": [
+                    "Requirements:",
+                    "Must be at least 16 years old",
+                    "Must complete an online application",
+                    "(Youth only 16-18) Must fill out and email the Short Answer Application and Letter of Recommendation",
+                    "Must attend a one-time orientation",
+                    " ",
+                    "What we expect of you:",
+                    "Respect visitors, staff, and other volunteers",
+                    "Commit to 12 months of volunteer service",
+                    "All volunteers are encouraged to attend volunteer enrichment events, which allow an opportunity to meet other volunteers and expand knowledge"
+                ],
+                "REQUIREMENTS_LINK": "http://lcdc.wpengine.com/wp-content/uploads/2020/07/Becoming-A-Volunteer-LCDC.pdf",
+                "SIGNUP_LINK": "https://www.volgistics.com/ex/portal.dll/ap?AP=8189216",
+                "START_DATE": "",
+                "END_DATE": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.640211,-117.110049
+                ]
+            }
         }
     ]
 }
