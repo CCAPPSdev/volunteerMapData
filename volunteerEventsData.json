@@ -386,6 +386,36 @@
                     32.640211,-117.110049
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "8518a00d49376f092146479831b65f82",
+                "type": "permanent",
+                "EVENT_NAME": "",
+                "ORGANIZATION_NAME": "San Diego Audubon Society",
+                "WEB_ADDRESS": "http://www.sandiegoaudubon.org",
+                "ADDRESS": "4010 Morena Blvd, Suite 100, San Diego CA 92117",
+                "EVENT_DESCRIPTION": [
+                    "The mission of San Diego Audubon Society is to foster the protection and appreciation of birds, other wildlife, and their habitats, through education and study, and advocate for a cleaner, healthier environment. We provide experiences in nature that are educational, inspirational, restorative, and engage in direct conservation actions to preserve and improve habitat for wildlife, with a special focus on birds."
+                ],
+                "EVENT_TIME": [
+                    "Currently the office is closed due to COVID concerns, but our typical hours are 9 am - 4 pm, Monday-Friday. "
+                ],
+                "EVENT_REQUIREMENTS": [
+                    "Our requirements vary depending on assignment, as we have many ways to volunteer. Volunteers can participate in habitat restoration events, in which case they should be capable of engaging in physical activity, and they can also volunteer as docents at our wildlife sanctuaries, at our front desk, or on a Committee. Volunteers under 18 must have a waiver signed by a legal guardian, and volunteers under 12 must have a legal guardian present. "
+                ],
+                "REQUIREMENTS_LINK": "https://www.sandiegoaudubon.org/get-involved/volunteer/",
+                "SIGNUP_LINK": "https://www.sandiegoaudubon.org/news-events/mailing-list.html",
+                "START_DATE": "",
+                "END_DATE": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.81357,-117.21786
+                ]
+            }
         }
     ]
 }
