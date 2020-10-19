@@ -1,421 +1,434 @@
 {
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ID": "ae22eb5319a285e7578e0a9dd0fef186",
-                "type": "permanent",
-                "EVENT_NAME": "SAN DIEGO BLOOD BANK GATEWAY DONOR CENTER",
-                "ORGANIZATION_NAME": "San Diego Blood Bank",
-                "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
-                "ADDRESS": "3636 Gateway Center Avenue, Suite 100 San Diego, CA 92102",
-                "EVENT_DESCRIPTION": [
-                    "San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
-                ],
-                "EVENT_TIME": [
-                    "Sundays: 8 am - 4 pm",
-                    "Mondays: 8 am - 4 pm",
-                    "Tuesdays: 10 am - 6 pm",
-                    "Wednesdays: 10 am - 6 pm",
-                    "Thursdays: 8 am - 4 pm",
-                    "Fridays: 8 am - 4 pm",
-                    "Saturdays: 8 am - 4 pm"
-                ],
-                "EVENT_REQUIREMENTS": [
-                    "All volunteers must schedule an appointment beforehand"
-                ],
-                "REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
-                "SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/4",
-                "START_DATE": "",
-                "END_DATE": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.714060,
-                    -117.113380
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ID": "9a19f3f856225107b2d32ede34b9907f",
-                "type": "permanent",
-                "EVENT_NAME": "EAST COUNTY DONOR CENTER",
-                "ORGANIZATION_NAME": "San Diego Blood Bank",
-                "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
-                "ADDRESS": "776 Arnele Ave, El Cajon, CA 92020",
-                "EVENT_DESCRIPTION": [
-                    "San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
-                ],
-                "EVENT_TIME": [
-                    "Sundays: 8 am - 4 pm",
-                    "Mondays: 8 am - 4 pm",
-                    "Tuesdays: 10 am - 6 pm",
-                    "Wednesdays: 10 am - 6 pm",
-                    "Thursdays: 8 am - 4 pm",
-                    "Fridays: 8 am - 4 pm",
-                    "Saturdays: 8 am - 4 pm"
-                ],
-                "EVENT_REQUIREMENTS": [
-                    "All volunteers must schedule an appointment beforehand"
-                ],
-                "REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
-                "SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/3",
-                "START_DATE": "",
-                "END_DATE": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.8042707,
-                    -116.974469
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ID": "f6e3048b557198b8395e210145afe57b",
-                "type": "permanent",
-                "EVENT_NAME": "NORTH COUNTY DONOR CENTER",
-                "ORGANIZATION_NAME": "San Diego Blood Bank",
-                "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
-                "ADDRESS": "358 W El Norte Pkwy Suite J Escondido, CA 92026",
-                "EVENT_DESCRIPTION": [
-                    "San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
-                ],
-                "EVENT_TIME": [
-                    "Sundays: 8 am - 4 pm",
-                    "Mondays: 8 am - 4 pm",
-                    "Tuesdays: 10 am - 6 pm",
-                    "Wednesdays: 10 am - 6 pm",
-                    "Thursdays: 8 am - 4 pm",
-                    "Fridays: 8 am - 4 pm",
-                    "Saturdays: 8 am - 4 pm"
-                ],
-                "EVENT_REQUIREMENTS": [
-                    "All volunteers must schedule an appointment beforehand"
-                ],
-                "REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
-                "SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/5",
-                "START_DATE": "",
-                "END_DATE": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33.1442418,-117.0979153
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ID": "fd18eccc66ac896c5a6f7a466bc3f899",
-                "type": "permanent",
-                "EVENT_NAME": "SABRE SPRINGS DONOR CENTER",
-                "ORGANIZATION_NAME": "San Diego Blood Bank",
-                "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
-                "ADDRESS": "12640 Sabre Springs Parkway, Suite 109 San Diego, CA 92128",
-                "EVENT_DESCRIPTION": [
-                    "San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
-                ],
-                "EVENT_TIME": [
-                    "Sundays: 8 am - 4 pm",
-                    "Mondays: 8 am - 4 pm",
-                    "Tuesdays: 10 am - 6 pm",
-                    "Wednesdays: 10 am - 6 pm",
-                    "Thursdays: 8 am - 4 pm",
-                    "Fridays: 8 am - 4 pm",
-                    "Saturdays: 8 am - 4 pm"
-                ],
-                "EVENT_REQUIREMENTS": [
-                    "All volunteers must schedule an appointment beforehand"
-                ],
-                "REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
-                "SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/6",
-                "START_DATE": "",
-                "END_DATE": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.949767,-117.096405
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ID": "76e93e8aa9266021dfe3d42fa68b76aa",
-                "type": "permanent",
-                "EVENT_NAME": "CARMEL VALLEY DONOR CENTER",
-                "ORGANIZATION_NAME": "San Diego Blood Bank",
-                "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
-                "ADDRESS": "3880 Valley Centre Dr #209 San Diego, CA 92130",
-                "EVENT_DESCRIPTION": [
-                    "San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
-                ],
-                "EVENT_TIME": [
-                    "Sundays: 8 am - 4 pm",
-                    "Mondays: 8 am - 4 pm",
-                    "Tuesdays: 12 pm - 8 pm",
-                    "Wednesdays: 12 pm - 8 pm",
-                    "Thursdays: 8 am - 4 pm",
-                    "Fridays: 8 am - 4 pm",
-                    "Saturdays: 8 am - 4 pm"
-                ],
-                "EVENT_REQUIREMENTS": [
-                    "All volunteers must schedule an appointment beforehand"
-                ],
-                "REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
-                "SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/1",
-                "START_DATE": "",
-                "END_DATE": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.9383409,-117.2346771
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ID": "9e85e089eabece9ad32e0b3218df68f1",
-                "type": "permanent",
-                "EVENT_NAME": "COASTAL DONOR CENTER",
-                "ORGANIZATION_NAME": "San Diego Blood Bank",
-                "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
-                "ADDRESS": "1910 Via Centre Vista, CA 92081",
-                "EVENT_DESCRIPTION": [
-                    "San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
-                ],
-                "EVENT_TIME": [
-                    "Sundays: 8 am - 4 pm",
-                    "Mondays: 8 am - 4 pm",
-                    "Tuesdays: 10 am - 6 pm",
-                    "Wednesdays: 10 am - 6 pm",
-                    "Thursdays: 8 am - 4 pm",
-                    "Fridays: 8 am - 4 pm",
-                    "Saturdays: 8 am - 4 pm"
-                ],
-                "EVENT_REQUIREMENTS": [
-                    "All volunteers must schedule an appointment beforehand"
-                ],
-                "REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
-                "SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/2",
-                "START_DATE": "4/11/2020",
-                "END_DATE": "4/30/2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33.1849887,-117.2834541
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ID": "b710e2df8884a457722bb55edc2ad3c6",
-                "type": "permanent",
-                "EVENT_NAME": "LIBERTY STATION TEMPORARY DONOR CENTER",
-                "ORGANIZATION_NAME": "San Diego Blood Bank",
-                "WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
-                "ADDRESS": "2445 Truxton Road Historic Building 27 - Suite 205 San Diego, CA 92106",
-                "EVENT_DESCRIPTION": [
-                    "San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
-                ],
-                "EVENT_TIME": [
-                    "Sundays: 9 am - 5 pm",
-                    "Mondays: 9 am - 5 pm",
-                    "Tuesdays: 9 am - 5 pm",
-                    "Wednesdays: 9 am - 5 pm",
-                    "Thursdays: 9 am - 5 pm",
-                    "Fridays: CLOSED",
-                    "Saturdays: CLOSED"
-                ],
-                "EVENT_REQUIREMENTS": [
-                    "All volunteers must schedule an appointment beforehand"
-                ],
-                "REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
-                "SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/4935",
-                "START_DATE": "",
-                "END_DATE": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.7365652,-117.2187791
-                ]
-            }
-        },
-         {
-            "type": "Feature",
-            "properties": {
-                "ID": "02299f2a6932f218b3f42f4f449e5ca7",
-                "type": "permanent",
-                "EVENT_NAME": "",
-                "ORGANIZATION_NAME": "The San Diego River Park Foundation",
-                "WEB_ADDRESS": "https://sandiegoriver.org/",
-                "ADDRESS": "4891 Pacific Highway, Suite 114, San Diego, CA 92110",
-                "EVENT_DESCRIPTION": [
-                    "The San Diego River Park Foundation is dedicated to fostering stewardship and appreciation of the region’s namesake waterway. In order to protect and enhance the San Diego River as a place for recreation, habitat, and nature discovery, we are dedicated to engaging people to be stewards of the River and working towards the vision of a 52 mile, river-long system of parks, open spaces, and community places."
-                ],
-                "EVENT_TIME": [
-                    "9:00am - 5:00pm, M-F"
-                ],
-                "EVENT_REQUIREMENTS": [
-                    ""
-                ],
-                "REQUIREMENTS_LINK": "",
-                "SIGNUP_LINK": "https://sandiegoriver.org/volunteer.html",
-                "START_DATE": "",
-                "END_DATE": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.76385,-117.20341
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ID": "cfaea2427c702914f9e1c0a6cf393c2e",
-                "type": "permanent",
-                "EVENT_NAME": "",
-                "ORGANIZATION_NAME": "I Love A Clean San Diego",
-                "WEB_ADDRESS": "https://www.ilacsd.org/",
-                "ADDRESS": "5797 Chesapeake Court Suite 200, San Diego, CA 92123",
-                "EVENT_DESCRIPTION": [
-                    "Our Mission: I Love A Clean San Diego leads and inspires our community to actively conserve and enhance the environment through example, outreach, and local involvement. Our Vision: A zero waste, litter-free, and environmentally engaged San Diego region. "
-                ],
-                "EVENT_TIME": [
-                    "M-F 9am-5pm PDT excluding federal holidays"
-                ],
-                "EVENT_REQUIREMENTS": [
-                    ""
-                ],
-                "REQUIREMENTS_LINK": "",
-                "SIGNUP_LINK": "https://www.ilacsd.org/",
-                "START_DATE": "",
-                "END_DATE": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.83884,-117.12903
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ID": "56a25ac8047fd83adc2e1f152c04cd11",
-                "type": "environmental",
-                "EVENT_NAME": "Monthly Native Plant Garden Work Party",
-                "ORGANIZATION_NAME": "Friends of Rose Creek",
-                "WEB_ADDRESS": "http://saverosecreek.org/",
-                "ADDRESS": "2525 Garnet Ave, San Diego, CA 92109",
-                "EVENT_DESCRIPTION": [
-                    "Meet behind the Rose Creek Cottage 2525 Garnet Ave in Pacific Beach. Park on Fogg Street just South of Garnet.",
-                    "Join the Friends of Rose Creek on the Second Saturday of every month from 9 a.m. until 11 a.m. while we work on The Nature School’s native plant interpretive garden behind Rose Creek Cottage. Enjoy weeding, watering, removing invasive non-native plants and trash, and planting native species (fall and winter months) and get involved with your creek and your community. Easy one to two hours project – great for children of all ages.",
-                    "Perfect for community service credit hours. Please wear sunscreen, closed-toe shoes, and a hat. Volunteers should bring water and heavy-duty work or gardening gloves. More information Karin 858-405-7503 or via email.",
-                    "Heavy rain cancels. Drizzle means we work."
-                ],
-                "EVENT_TIME": [
-                    "9 am to 11 am"
-                ],
-                "EVENT_REQUIREMENTS": [
-                    "No children under 13 without an adult present"
-                ],
-                "REQUIREMENTS_LINK": "",
-                "SIGNUP_LINK": "http://saverosecreek.org/?page_id=993&event_id=367",
-                "START_DATE": "9/12/2020",
-                "END_DATE": "9/12/2020"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.8048,-117.224
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ID": "c70fed02254338e6bb28213b264c3132",
-                "type": "permanent",
-                "EVENT_NAME": "",
-                "ORGANIZATION_NAME": "Living Coast Discovery Center",
-                "WEB_ADDRESS": "https://www.thelivingcoast.org/volunteer",
-                "ADDRESS": "1000 Gunpowder Point Dr, Chula Vista, CA 91910",
-                "EVENT_DESCRIPTION": [
-                    "The Living Coast Discovery Center is a 501(c)(3) zoo and aquarium located on Sweetwater Marsh National Wildlife Refuge on San Diego Bay. Founded in 1987 as the Chula Vista Nature Interpretive Center, we have served the San Diego community for over 30 years. We are open to the public every day of the week.",
-                    "We are a community of staff, over 300 volunteers, hundreds of animals & plants, and a nationwide base of partners."
-                ],
-                "EVENT_TIME": [
-                    ""
-                ],
-                "EVENT_REQUIREMENTS": [
-                    "Requirements:",
-                    "Must be at least 16 years old",
-                    "Must complete an online application",
-                    "(Youth only 16-18) Must fill out and email the Short Answer Application and Letter of Recommendation",
-                    "Must attend a one-time orientation",
-                    " ",
-                    "What we expect of you:",
-                    "Respect visitors, staff, and other volunteers",
-                    "Commit to 12 months of volunteer service",
-                    "All volunteers are encouraged to attend volunteer enrichment events, which allow an opportunity to meet other volunteers and expand knowledge"
-                ],
-                "REQUIREMENTS_LINK": "http://lcdc.wpengine.com/wp-content/uploads/2020/07/Becoming-A-Volunteer-LCDC.pdf",
-                "SIGNUP_LINK": "https://www.volgistics.com/ex/portal.dll/ap?AP=8189216",
-                "START_DATE": "",
-                "END_DATE": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.640211,-117.110049
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ID": "8518a00d49376f092146479831b65f82",
-                "type": "permanent",
-                "EVENT_NAME": "",
-                "ORGANIZATION_NAME": "San Diego Audubon Society",
-                "WEB_ADDRESS": "http://www.sandiegoaudubon.org",
-                "ADDRESS": "4010 Morena Blvd, Suite 100, San Diego CA 92117",
-                "EVENT_DESCRIPTION": [
-                    "The mission of San Diego Audubon Society is to foster the protection and appreciation of birds, other wildlife, and their habitats, through education and study, and advocate for a cleaner, healthier environment. We provide experiences in nature that are educational, inspirational, restorative, and engage in direct conservation actions to preserve and improve habitat for wildlife, with a special focus on birds."
-                ],
-                "EVENT_TIME": [
-                    "Currently the office is closed due to COVID concerns, but our typical hours are 9 am - 4 pm, Monday-Friday. "
-                ],
-                "EVENT_REQUIREMENTS": [
-                    "Our requirements vary depending on assignment, as we have many ways to volunteer. Volunteers can participate in habitat restoration events, in which case they should be capable of engaging in physical activity, and they can also volunteer as docents at our wildlife sanctuaries, at our front desk, or on a Committee. Volunteers under 18 must have a waiver signed by a legal guardian, and volunteers under 12 must have a legal guardian present. "
-                ],
-                "REQUIREMENTS_LINK": "https://www.sandiegoaudubon.org/get-involved/volunteer/",
-                "SIGNUP_LINK": "https://www.sandiegoaudubon.org/news-events/mailing-list.html",
-                "START_DATE": "",
-                "END_DATE": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.81357,-117.21786
-                ]
-            }
-        }
-    ]
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"ID": "ae22eb5319a285e7578e0a9dd0fef186",
+				"type": "permanent",
+				"EVENT_NAME": "SAN DIEGO BLOOD BANK GATEWAY DONOR CENTER",
+				"ORGANIZATION_NAME": "San Diego Blood Bank",
+				"WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
+				"ADDRESS": "3636 Gateway Center Avenue, Suite 100 San Diego, CA 92102",
+				"EVENT_DESCRIPTION": [
+					"San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
+				],
+				"EVENT_TIME": [
+					"Sundays: 8 am - 4 pm",
+					"Mondays: 8 am - 4 pm",
+					"Tuesdays: 10 am - 6 pm",
+					"Wednesdays: 10 am - 6 pm",
+					"Thursdays: 8 am - 4 pm",
+					"Fridays: 8 am - 4 pm",
+					"Saturdays: 8 am - 4 pm"
+				],
+				"EVENT_REQUIREMENTS": [
+					"All volunteers must schedule an appointment beforehand"
+				],
+				"REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
+				"SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/4",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.714060,
+					-117.113380
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "9a19f3f856225107b2d32ede34b9907f",
+				"type": "permanent",
+				"EVENT_NAME": "EAST COUNTY DONOR CENTER",
+				"ORGANIZATION_NAME": "San Diego Blood Bank",
+				"WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
+				"ADDRESS": "776 Arnele Ave, El Cajon, CA 92020",
+				"EVENT_DESCRIPTION": [
+					"San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
+				],
+				"EVENT_TIME": [
+					"Sundays: 8 am - 4 pm",
+					"Mondays: 8 am - 4 pm",
+					"Tuesdays: 10 am - 6 pm",
+					"Wednesdays: 10 am - 6 pm",
+					"Thursdays: 8 am - 4 pm",
+					"Fridays: 8 am - 4 pm",
+					"Saturdays: 8 am - 4 pm"
+				],
+				"EVENT_REQUIREMENTS": [
+					"All volunteers must schedule an appointment beforehand"
+				],
+				"REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
+				"SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/3",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.8042707,
+					-116.974469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "f6e3048b557198b8395e210145afe57b",
+				"type": "permanent",
+				"EVENT_NAME": "NORTH COUNTY DONOR CENTER",
+				"ORGANIZATION_NAME": "San Diego Blood Bank",
+				"WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
+				"ADDRESS": "358 W El Norte Pkwy Suite J Escondido, CA 92026",
+				"EVENT_DESCRIPTION": [
+					"San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
+				],
+				"EVENT_TIME": [
+					"Sundays: 8 am - 4 pm",
+					"Mondays: 8 am - 4 pm",
+					"Tuesdays: 10 am - 6 pm",
+					"Wednesdays: 10 am - 6 pm",
+					"Thursdays: 8 am - 4 pm",
+					"Fridays: 8 am - 4 pm",
+					"Saturdays: 8 am - 4 pm"
+				],
+				"EVENT_REQUIREMENTS": [
+					"All volunteers must schedule an appointment beforehand"
+				],
+				"REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
+				"SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/5",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.1442418, -117.0979153
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "fd18eccc66ac896c5a6f7a466bc3f899",
+				"type": "permanent",
+				"EVENT_NAME": "SABRE SPRINGS DONOR CENTER",
+				"ORGANIZATION_NAME": "San Diego Blood Bank",
+				"WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
+				"ADDRESS": "12640 Sabre Springs Parkway, Suite 109 San Diego, CA 92128",
+				"EVENT_DESCRIPTION": [
+					"San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
+				],
+				"EVENT_TIME": [
+					"Sundays: 8 am - 4 pm",
+					"Mondays: 8 am - 4 pm",
+					"Tuesdays: 10 am - 6 pm",
+					"Wednesdays: 10 am - 6 pm",
+					"Thursdays: 8 am - 4 pm",
+					"Fridays: 8 am - 4 pm",
+					"Saturdays: 8 am - 4 pm"
+				],
+				"EVENT_REQUIREMENTS": [
+					"All volunteers must schedule an appointment beforehand"
+				],
+				"REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
+				"SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/6",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.949767, -117.096405
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "76e93e8aa9266021dfe3d42fa68b76aa",
+				"type": "permanent",
+				"EVENT_NAME": "CARMEL VALLEY DONOR CENTER",
+				"ORGANIZATION_NAME": "San Diego Blood Bank",
+				"WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
+				"ADDRESS": "3880 Valley Centre Dr #209 San Diego, CA 92130",
+				"EVENT_DESCRIPTION": [
+					"San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
+				],
+				"EVENT_TIME": [
+					"Sundays: 8 am - 4 pm",
+					"Mondays: 8 am - 4 pm",
+					"Tuesdays: 12 pm - 8 pm",
+					"Wednesdays: 12 pm - 8 pm",
+					"Thursdays: 8 am - 4 pm",
+					"Fridays: 8 am - 4 pm",
+					"Saturdays: 8 am - 4 pm"
+				],
+				"EVENT_REQUIREMENTS": [
+					"All volunteers must schedule an appointment beforehand"
+				],
+				"REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
+				"SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/1",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.9383409, -117.2346771
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "9e85e089eabece9ad32e0b3218df68f1",
+				"type": "permanent",
+				"EVENT_NAME": "COASTAL DONOR CENTER",
+				"ORGANIZATION_NAME": "San Diego Blood Bank",
+				"WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
+				"ADDRESS": "1910 Via Centre Vista, CA 92081",
+				"EVENT_DESCRIPTION": [
+					"San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
+				],
+				"EVENT_TIME": [
+					"Sundays: 8 am - 4 pm",
+					"Mondays: 8 am - 4 pm",
+					"Tuesdays: 10 am - 6 pm",
+					"Wednesdays: 10 am - 6 pm",
+					"Thursdays: 8 am - 4 pm",
+					"Fridays: 8 am - 4 pm",
+					"Saturdays: 8 am - 4 pm"
+				],
+				"EVENT_REQUIREMENTS": [
+					"All volunteers must schedule an appointment beforehand"
+				],
+				"REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
+				"SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/2",
+				"START_DATE": "4/11/2020",
+				"END_DATE": "4/30/2020"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.1849887, -117.2834541
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "b710e2df8884a457722bb55edc2ad3c6",
+				"type": "permanent",
+				"EVENT_NAME": "LIBERTY STATION TEMPORARY DONOR CENTER",
+				"ORGANIZATION_NAME": "San Diego Blood Bank",
+				"WEB_ADDRESS": "https://www.sandiegobloodbank.org/donors",
+				"ADDRESS": "2445 Truxton Road Historic Building 27 - Suite 205 San Diego, CA 92106",
+				"EVENT_DESCRIPTION": [
+					"San Diego Blood Bank must collect hundreds of blood components each day to meet the needs of local patients who are battling life-threatening blood disorders like aplastic anemia, sickle cell anemia and leukemia, as well as those who need blood during trauma situations."
+				],
+				"EVENT_TIME": [
+					"Sundays: 9 am - 5 pm",
+					"Mondays: 9 am - 5 pm",
+					"Tuesdays: 9 am - 5 pm",
+					"Wednesdays: 9 am - 5 pm",
+					"Thursdays: 9 am - 5 pm",
+					"Fridays: CLOSED",
+					"Saturdays: CLOSED"
+				],
+				"EVENT_REQUIREMENTS": [
+					"All volunteers must schedule an appointment beforehand"
+				],
+				"REQUIREMENTS_LINK": "https://www.sandiegobloodbank.org/donors/blood-donor-requirements",
+				"SIGNUP_LINK": "https://www.mysdbb.org/#/ScheduleAppointmentStep2/center/4935",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.7365652, -117.2187791
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "02299f2a6932f218b3f42f4f449e5ca7",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "The San Diego River Park Foundation",
+				"WEB_ADDRESS": "https://sandiegoriver.org/",
+				"ADDRESS": "4891 Pacific Highway, Suite 114, San Diego, CA 92110",
+				"EVENT_DESCRIPTION": [
+					"The San Diego River Park Foundation is dedicated to fostering stewardship and appreciation of the region’s namesake waterway. In order to protect and enhance the San Diego River as a place for recreation, habitat, and nature discovery, we are dedicated to engaging people to be stewards of the River and working towards the vision of a 52 mile, river-long system of parks, open spaces, and community places."
+				],
+				"EVENT_TIME": [
+					"9:00am - 5:00pm, M-F"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "",
+				"SIGNUP_LINK": "https://sandiegoriver.org/volunteer.html",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.76385, -117.20341
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "cfaea2427c702914f9e1c0a6cf393c2e",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "I Love A Clean San Diego",
+				"WEB_ADDRESS": "https://www.ilacsd.org/",
+				"ADDRESS": "5797 Chesapeake Court Suite 200, San Diego, CA 92123",
+				"EVENT_DESCRIPTION": [
+					"Our Mission: I Love A Clean San Diego leads and inspires our community to actively conserve and enhance the environment through example, outreach, and local involvement. Our Vision: A zero waste, litter-free, and environmentally engaged San Diego region. "
+				],
+				"EVENT_TIME": [
+					"M-F 9am-5pm PDT excluding federal holidays"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "",
+				"SIGNUP_LINK": "https://www.ilacsd.org/",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.83884, -117.12903
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "c70fed02254338e6bb28213b264c3132",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Living Coast Discovery Center",
+				"WEB_ADDRESS": "https://www.thelivingcoast.org/volunteer",
+				"ADDRESS": "1000 Gunpowder Point Dr, Chula Vista, CA 91910",
+				"EVENT_DESCRIPTION": [
+					"The Living Coast Discovery Center is a 501(c)(3) zoo and aquarium located on Sweetwater Marsh National Wildlife Refuge on San Diego Bay. Founded in 1987 as the Chula Vista Nature Interpretive Center, we have served the San Diego community for over 30 years. We are open to the public every day of the week.",
+					"We are a community of staff, over 300 volunteers, hundreds of animals & plants, and a nationwide base of partners."
+				],
+				"EVENT_TIME": [
+					""
+				],
+				"EVENT_REQUIREMENTS": [
+					"Requirements:",
+					"Must be at least 16 years old",
+					"Must complete an online application",
+					"(Youth only 16-18) Must fill out and email the Short Answer Application and Letter of Recommendation",
+					"Must attend a one-time orientation",
+					" ",
+					"What we expect of you:",
+					"Respect visitors, staff, and other volunteers",
+					"Commit to 12 months of volunteer service",
+					"All volunteers are encouraged to attend volunteer enrichment events, which allow an opportunity to meet other volunteers and expand knowledge"
+				],
+				"REQUIREMENTS_LINK": "http://lcdc.wpengine.com/wp-content/uploads/2020/07/Becoming-A-Volunteer-LCDC.pdf",
+				"SIGNUP_LINK": "https://www.volgistics.com/ex/portal.dll/ap?AP=8189216",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.640211, -117.110049
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "8518a00d49376f092146479831b65f82",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "San Diego Audubon Society",
+				"WEB_ADDRESS": "http://www.sandiegoaudubon.org",
+				"ADDRESS": "4010 Morena Blvd, Suite 100, San Diego CA 92117",
+				"EVENT_DESCRIPTION": [
+					"The mission of San Diego Audubon Society is to foster the protection and appreciation of birds, other wildlife, and their habitats, through education and study, and advocate for a cleaner, healthier environment. We provide experiences in nature that are educational, inspirational, restorative, and engage in direct conservation actions to preserve and improve habitat for wildlife, with a special focus on birds."
+				],
+				"EVENT_TIME": [
+					"Currently the office is closed due to COVID concerns, but our typical hours are 9 am - 4 pm, Monday-Friday. "
+				],
+				"EVENT_REQUIREMENTS": [
+					"Our requirements vary depending on assignment, as we have many ways to volunteer. Volunteers can participate in habitat restoration events, in which case they should be capable of engaging in physical activity, and they can also volunteer as docents at our wildlife sanctuaries, at our front desk, or on a Committee. Volunteers under 18 must have a waiver signed by a legal guardian, and volunteers under 12 must have a legal guardian present. "
+				],
+				"REQUIREMENTS_LINK": "https://www.sandiegoaudubon.org/get-involved/volunteer/",
+				"SIGNUP_LINK": "https://www.sandiegoaudubon.org/news-events/mailing-list.html",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.81357, -117.21786
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID": "7b4633aa114333820589f6c7315500d1",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "OG Yoga",
+				"WEB_ADDRESS": "https://www.ogyoga.org",
+				"ADDRESS": "Virtual",
+				"EVENT_DESCRIPTION": [
+					"“There is a voice that doesn’t use words. Listen”",
+					"(Rumi, 11th century Persian poet)",
+					" ",
+					"It is common with trauma to brace against inner sensations and stiffen muscles, often around the neck and shoulder area. Bracing serves to keep someone on high alert, ready to act in response to danger. But that response can get over programmed in the body. Addressing bracing and tension involves tackling it where it lives- and yoga does that.",
+					" ",
+					"You can’t change irrational bodily responses unless you pay attention to the messages from your body, be quiet, attentive and explore the sensations. It is important to distinguish the physical body from the emotions and untangle thoughts and feelings from body sensations. You have to befriend your own bodily sensations to overcome the residue of trauma. You have to feel safe in your own body and deactivate the sense memories of trauma.",
+					" ",
+					"Bessel van der Kolk, MD, a renowned trauma researcher said, “For real change to take place, the body needs to learn that the danger has passed and to live in the reality of the present”.",
+					" ",
+					"With yoga, you learn to be still and tolerate sensation- not react in an old patterned response- therefore deactivating it. If you calm the body you calm the mind. A calmer body results in a calmer mind. You can engage in activities that help promote a sense of safety. In fact, research has shown that allowing yourself to rest in savasana or final resting pose promotes a sense of safety.",
+					" ",
+					"Mindfulness is”Paying attention in a particular way: on purpose, in the present moment without judgment”.",
+					" ",
+					"Mindfulness helps you interrupt the patterns of reacting, take a step back, observe and be less critical of your thoughts and experiences. After all, those reactions were survival oriented, meant to protect you and keep you in a state of readiness to respond to danger and perceived threat. Your mind and body have to reset and move out of that constant state of readiness and guard. The goal is to feel safely embodied and trust that you can take action to heal.",
+					" ",
+					"Trauma-informed or trauma sensitive yoga is a means of reconnecting to the body and rewiring the overactive stress response. Finding stillness and exploring sensation in a safe way is the goal and reconnecting to yourself in a careful and gentle way. While the movements may seem simple, these movements promote a kind of grounding in your body and rewire the brain to promote peace and calm.",
+					" ",
+					"Contact with the body through movement and breathing facilitates safe connection with implicit memory."
+				],
+				"EVENT_TIME": [
+					"Monday through Sunday virtually"
+				],
+				"EVENT_REQUIREMENTS": [
+					"Sign up for a virtual OG Yoga Class and invite someone experiencing trauma to join you."
+				],
+				"REQUIREMENTS_LINK": "",
+				"SIGNUP_LINK": "https://www.ogyoga.org",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.75687, -117.12271
+				]
+			}
+		}
+	]
 }
