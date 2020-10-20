@@ -429,6 +429,36 @@
 					32.75687, -117.12271
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "72b33e23557e0b8fd45cb5fff43f2cc4",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Traveling Stories",
+				"WEB_ADDRESS": "https://travelingstories.org/",
+				"ADDRESS": "Virtual",
+				"EVENT_DESCRIPTION": [
+					"Become a Virtual Reading Mentor and help children fall in love with reading. As a volunteer, you will be paired with a reader between the age of 5 & 7 and meet with them virtually once a week for 6 weeks. The reader will get book bucks for each book they read and use those bucks to buy prizes!"
+				],
+				"EVENT_TIME": [
+					"Wednesdays 2, 4, & 6pm",
+					"Saturdays 9, 10, & 11am"
+				],
+				"EVENT_REQUIREMENTS": [
+					"Must be 15 years of age or older, able to commit to 1 hour a week for 6 weeks, have access to reliable internet connection, be comfortable interacting with kiddos, And most importantly - must love reading! "
+				],
+				"REQUIREMENTS_LINK": "",
+				"SIGNUP_LINK": "https://app.betterimpact.com/Application?OrganizationGuid=709be655-d05b-4330-8ad6-94a248372d4b&ApplicationFormNumber=1",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.67602, -117.09279
+				]
+			}
 		}
 	]
 }
