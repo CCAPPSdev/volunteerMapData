@@ -459,6 +459,35 @@
 					32.67602, -117.09279
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "b336125ec1df86674c7da8d0310cfbb6",
+				"type": "permanent",
+				"EVENT_NAME": "San Jose Donation Site",
+				"ORGANIZATION_NAME": "Vitalant",
+				"WEB_ADDRESS": "vitalant.org",
+				"ADDRESS": "2575 Coit Drive, San Jose, CA 95124",
+				"EVENT_DESCRIPTION": [
+					"Vitalant exists to make a difference in people's lives by bringing together the best people, inspiring individuals to donate blood, producing a safe and ample blood supply, advancing cutting-edge research and embracing continuous quality improvement."
+				],
+				"EVENT_TIME": [
+					"The bloodmobile is in the Cambrian Park Church of the Nazarene parking lot every other Monday taking whole blood donations 1:30 PM - 6:00 PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.vitalant.org/Donate/Donor-Eligibility.aspx",
+				"SIGNUP_LINK": "https://www.vitalant.org/Locations2/Bay-Area/San-Jose-Donation-Site.aspx",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.274601, -121.924057
+				]
+			}
 		}
 	]
 }
