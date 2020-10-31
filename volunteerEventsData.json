@@ -587,6 +587,41 @@
 					37.791150, -122.401340
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "8ab88d2c29954e7008f4095688cab9c6",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Vitalant Blood Bank",
+				"WEB_ADDRESS": "vitalant.org",
+				"ADDRESS": "270 Masonic Avenue, San Francisco, CA 94118",
+				"EVENT_DESCRIPTION": [
+					"Vitalant exists to make a difference in people's lives by bringing together the best people, inspiring individuals to donate blood, producing a safe and ample blood supply, advancing cutting-edge research and embracing continuous quality improvement."
+				],
+				"EVENT_TIME": [
+					"Mon 11:00 AM to 6:30 PM",
+					"Tue 11:00 AM to 6:30 PM",
+					"Wed 11:00 AM to 6:30 PM",
+					"Thu 11:00 AM to 6:30 PM",
+					"Fri 7:30 AM to 3:00 PM",
+					"Sat 7:30 AM to 3:00 PM",
+					"Sun CLOSED"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.vitalant.org/Donate/Donor-Eligibility.aspx",
+				"SIGNUP_LINK": "https://bloodheroes.com/",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.778919, -122.446747
+				]
+			}
 		}
 	]
 }
