@@ -552,6 +552,41 @@
 					37.564110, -122.325650
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "74f68ccaebf46fe51c9be0d07b471c79",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Vitalant Blood Bank",
+				"WEB_ADDRESS": "vitalant.org",
+				"ADDRESS": "250 Bush Street, San Francisco, CA 94104",
+				"EVENT_DESCRIPTION": [
+					"Vitalant exists to make a difference in people's lives by bringing together the best people, inspiring individuals to donate blood, producing a safe and ample blood supply, advancing cutting-edge research and embracing continuous quality improvement."
+				],
+				"EVENT_TIME": [
+					"Mon 7:00 AM to 2:30 PM",
+					"Tue 7:00 AM to 2:30 PM",
+					"Wed 7:00 AM to 2:30 PM",
+					"Thu 11:00 AM to 6:30 PM",
+					"Fri 7:30 AM to 3:00 PM",
+					"Sat Closed",
+					"Sun Closed"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.vitalant.org/Donate/Donor-Eligibility.aspx",
+				"SIGNUP_LINK": "https://bloodheroes.com/",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.791150, -122.401340
+				]
+			}
 		}
 	]
 }
