@@ -464,8 +464,8 @@
 			"properties": {
 				"ID": "b336125ec1df86674c7da8d0310cfbb6",
 				"type": "permanent",
-				"EVENT_NAME": "San Jose Donation Site",
-				"ORGANIZATION_NAME": "Vitalant",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Vitalant Blood Bank",
 				"WEB_ADDRESS": "vitalant.org",
 				"ADDRESS": "2575 Coit Drive, San Jose, CA 95124",
 				"EVENT_DESCRIPTION": [
