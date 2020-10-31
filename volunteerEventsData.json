@@ -488,6 +488,35 @@
 					37.274601, -121.924057
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "a7708bad58925fb01c39118591127c17",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Vitalant Blood Bank",
+				"WEB_ADDRESS": "vitalant.org",
+				"ADDRESS": "20745 Stevens Creek Boulevard, Cupertino, CA 95014",
+				"EVENT_DESCRIPTION": [
+					"Vitalant exists to make a difference in people's lives by bringing together the best people, inspiring individuals to donate blood, producing a safe and ample blood supply, advancing cutting-edge research and embracing continuous quality improvement."
+				],
+				"EVENT_TIME": [
+					"The bloodmobile is in the Target parking lot in Cupertino every other Monday taking whole blood donations 1:30 PM - 6:30 PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.vitalant.org/Donate/Donor-Eligibility.aspx",
+				"SIGNUP_LINK": "https://www.vitalant.org/Locations2/Bay-Area/San-Jose-Donation-Site.aspx",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.324190, -122.036140
+				]
+			}
 		}
 	]
 }
