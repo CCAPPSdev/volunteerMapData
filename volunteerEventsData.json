@@ -695,6 +695,35 @@
 					37.870079, -122.271843
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "ad9233f2566f17bcbf5228d7d02bb342",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Save The Bay",
+				"WEB_ADDRESS": "http://savesfbay.org",
+				"ADDRESS": "2500 Embarcadero Rd, Palo Alto, CA 94303",
+				"EVENT_DESCRIPTION": [
+					"This is the location of our Native Plant Nursery in Palo Alto Baylands. We also have programs in Oakland, Menlo Park, Novato and Union City. The sign-up link goes to our calendar where volunteers can see all available programs.  "
+				],
+				"EVENT_TIME": [
+					"2nd Wednesday of every month from 12-3"
+				],
+				"EVENT_REQUIREMENTS": [
+					"Bring your own water bottle, closed toe shoes, and clothes you don't mind getting dirty. "
+				],
+				"REQUIREMENTS_LINK": "",
+				"SIGNUP_LINK": "https://savesfbay.org/experience-your-bay/save-the-bay-calendar",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.458097, -122.1090823
+				]
+			}
 		}
 	]
 }
