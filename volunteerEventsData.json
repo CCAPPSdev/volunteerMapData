@@ -662,6 +662,39 @@
 					32.70628, -117.15032
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "f7a284fb0ad8239c2c4ec620b69c0df5",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Dorothy Day House",
+				"WEB_ADDRESS": "https://www.dorothydayhouseberkeley.org/",
+				"ADDRESS": "1931 Center Street, Berkeley, CA 94704",
+				"EVENT_DESCRIPTION": [
+					"We serve breakfast and lunch everyday all year long. Volunteers for those generally work from 7 to 9:30 in the morning or from 11:30 to 1:30 in the afternoon. ",
+					"",
+					"We also take our food service outreach trailer out to the tent encampments around Berkeley and distribute food, toiletries and other supplies. We generally do that from noon until about 3 p.m. Wednesday, Thursday and Friday. ",
+					"",
+					"If those seem like a good fit for you, feel free to email or call at 510-333-7521. You can also try our office phone at 510-705-1325. "
+				],
+				"EVENT_TIME": [
+					"Our kitchen is open seven days a week / 365 days a year from 7:00 AM to 2:00 PM "
+				],
+				"EVENT_REQUIREMENTS": [
+					"Anyone 18 years of age or older is welcome to join us."
+				],
+				"REQUIREMENTS_LINK": "",
+				"SIGNUP_LINK": "https://www.dorothydayhouseberkeley.org/volunteer",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.870079, -122.271843
+				]
+			}
 		}
 	]
 }
