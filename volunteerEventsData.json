@@ -622,6 +622,46 @@
 					37.778919, -122.446747
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "643b6c07cd49c1573c191ef91382facc",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Father Joe's Villages",
+				"WEB_ADDRESS": "https://my.neighbor.org/",
+				"ADDRESS": "1501 Imperial Ave., San Diego, CA 92101",
+				"EVENT_DESCRIPTION": [
+					"When the pandemic began, there were constant changes at the Village.  Some departments had to close temporarily, operations in the kitchens have changed- closure of both dining rooms, meals are being plated and handed to residents/clients who have to take them and leave to eat. The number of servers per meal has decreased to 3 people per meal but we are still serving our neighbors in need, out of two kitchens on site.",
+					"We are practicing social distancing and all FJV staff, volunteers, clients, and visitors must bring and wear a mask when at the Village. The kitchens are still providing gloves, hair nets, aprons, and face shields upon request.",
+					"We have plexi-glass separating those receiving meals and volunteers.  The task is only serving food onto the plates, covering with foil or saran wrap and handing through the plexi-glass. Also, handing out salad, dessert, fruit, or milk through the window slot. We really only need 3 people since we need to consider the chef and food service staff in the kitchen to respect the spatial distancing order. The kitchens still provide hairnets, aprons, gloves, and face shield upon request. Volunteers are required to bring their own face mask.",
+					"Everything is to-go and clean-up is very quick.",
+					"",
+					"*No court/community service accepted for this volunteer opportunity."
+				],
+				"EVENT_TIME": [
+					"Breakfast meal service- 5:50 - 7:30 am, lunch 10:30 am - 12:30 pm, & dinner 4 - 6:30 pm. "
+				],
+				"EVENT_REQUIREMENTS": [
+					"*Must bring and wear a face mask.",
+					"*Must be able to take general requests or directions from the chef on duty.",
+					"*Must be able to stand (to serve food) the entire shift. ",
+					"*Must be at least 10 years old and accompanied by a parent/guardian. Ages 15+ can volunteer independently. All minors must submit a Parent Authorization form.",
+					"*Everyone volunteering must submit a Covid-19 screening form prior to their volunteer date.",
+					"*Dress code: long pants, closed-toe shoes (preferably sneakers or tennis shoes), shirt, t-shirt, or blouse with sleeves (long or short but nothing exposing the shoulders)",
+					"*No court mandated or court related requests for community service accepted. "
+				],
+				"REQUIREMENTS_LINK": "",
+				"SIGNUP_LINK": "https://neighbor.volunteerhub.com/",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.70628, -117.15032
+				]
+			}
 		}
 	]
 }
