@@ -724,6 +724,35 @@
 					37.458097, -122.1090823
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "33ec41a3a40ea48313dff74d45c9cf2a",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Second Harvest of Silicon Valley",
+				"WEB_ADDRESS": "https://www.shfb.org/give-help/volunteer/",
+				"ADDRESS": "4001 North First Street, San Jose, CA 95134",
+				"EVENT_DESCRIPTION": [
+					"Our work is about all of us joining together to make sure we all have access to the most basic need: food."
+				],
+				"EVENT_TIME": [
+					"various"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "",
+				"SIGNUP_LINK": "https://www.shfb.org/give-help/volunteer/",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.41319, -121.95276
+				]
+			}
 		}
 	]
 }
