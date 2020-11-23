@@ -1130,6 +1130,151 @@
 					33.12958, -117.08373
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "565c63f97faa0f3e793bb5c4b5092ea0",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - Oceanside",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "2001 South El Camino Real Oceanside, CA 92054",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.1922, -117.32912
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "c3479f0339e2e47d7b062f2973626526",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - Rancho Bernardo",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "17010 Pomerado Rd San Diego, CA 92128",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.0205, -117.06179
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "822bfcbb0debd800ca5276dd5b850775",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - San Marcos",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "930 Boardwalk, Ste. C San Marcos, CA 92078",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.13691, -117.18643
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "ea62f720dcdc661b7549c15a25ba8b08",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - Lemon Grove",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "8086 Broadway Lemon Grove, CA 91945",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.74339, -117.02376
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "a10cd01619282f38920863f207b52947",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - Norman Park",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "270 F St, Chula Vista, CA 91910",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.64127, -117.07807
+				]
+			}
 		}
 	]
 }
