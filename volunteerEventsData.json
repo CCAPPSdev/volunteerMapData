@@ -811,6 +811,35 @@
 					32.75489, -117.21667
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "24595dc115a214e3500f13dacb206e92",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - College",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "4747 College Ave. San Diego, CA 92115",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.76386, -117.06587
+				]
+			}
 		}
 	]
 }
