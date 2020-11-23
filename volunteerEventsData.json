@@ -927,6 +927,122 @@
 					32.80764, -117.1232
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "b42a18dc7a653550c45eadeb7da06258",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - Southeastern SD",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "570 S. 65th St., San Diego, CA 92114",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.69949, -117.05817
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "69398b6b8481dd148be97e318c0dd038",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - Alpine",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "190 N. Magnolia Avenue, El Cajon, CA 92020",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.79647, -116.96279
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "6888020e7d01bf240250c77397bff578",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - American Legion",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "8118 University Avenue, La Mesa, CA 91942",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.76802, -117.02285
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "1159525b3a1dc8e3489d648c85f7c71c",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - Santee",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "8964 N. Magnolia Avenue, Santee, CA 92071",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.83991, -116.96875
+				]
+			}
 		}
 	]
 }
