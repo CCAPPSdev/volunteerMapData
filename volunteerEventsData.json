@@ -840,6 +840,93 @@
 					32.76386, -117.06587
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "816a61c2fa6a457836457b5520c25b6d",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - Clairemont",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "4217 Clairemont Mesa Blvd, San Diego, CA 92117",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.83154, -117.20138
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "793a0972424547f45e35744adebeba54",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - Hillcrest",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "1940 El Cajon Blvd., San Diego, CA 92104",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.756378, -117.144814
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "b74081a14cce3e2a9c6b20c8943c16c8",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "Meals on Wheels - Serra Mesa",
+				"WEB_ADDRESS": "https://www.meals-on-wheels.org/volunteer",
+				"ADDRESS": "9575 Aero Dr. San Diego, CA 92123",
+				"EVENT_DESCRIPTION": [
+					"Meals on Wheels San Diego County delivers nutritious meals to seniors and disabled veterans. We provide safe moments of human connection between our volunteers and seniors. We have precautionary measures, such as contactless delivery and social distancing, to keep our volunteers and seniors safe."
+				],
+				"EVENT_TIME": [
+					"Monday - Saturday approximately 10:30AM-1:30PM"
+				],
+				"EVENT_REQUIREMENTS": [
+					""
+				],
+				"REQUIREMENTS_LINK": "https://www.meals-on-wheels.org/volunteer/deliver-meals",
+				"SIGNUP_LINK": "https://www.meals-on-wheels.org/volunteer-application",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.80764, -117.1232
+				]
+			}
 		}
 	]
 }
