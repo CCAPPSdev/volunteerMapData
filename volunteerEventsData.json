@@ -1275,6 +1275,38 @@
 					32.64127, -117.07807
 				]
 			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "a10cd01619282f38920863f207b52947",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "San Francisco Court Appointed Special Advocates (SFCASA)",
+				"WEB_ADDRESS": "https://www.sfcasa.org/",
+				"ADDRESS": "2535 Mission Street, San Francisco, CA 94110",
+				"EVENT_DESCRIPTION": [
+					"San Francisco CASA transforms the lives of abused and neglected foster youth by providing one consistent, caring volunteer advocate, trained to address each child’s needs in the court and the community.",
+					"",
+					"",
+					"To learn more about our model, please visit https://www.sfcasa.org/info"
+				],
+				"EVENT_TIME": [
+					"Monday-Friday 9-5 pm"
+				],
+				"EVENT_REQUIREMENTS": [
+					"You must be 21 or older to apply. Current Foster Parents are not eligible to be CASA Volunteers.\n\nTake the first step and join us for an Information Session!"
+				],
+				"REQUIREMENTS_LINK": "https://www.sfcasa.org/volunteer",
+				"SIGNUP_LINK": "https://www.sfcasa.org/volunteer",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.7565, -122.41849
+				]
+			}
 		}
 	]
 }
