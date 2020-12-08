@@ -1287,7 +1287,6 @@
 				"EVENT_DESCRIPTION": [
 					"San Francisco CASA transforms the lives of abused and neglected foster youth by providing one consistent, caring volunteer advocate, trained to address each child’s needs in the court and the community.",
 					"",
-					"",
 					"To learn more about our model, please visit https://www.sfcasa.org/info"
 				],
 				"EVENT_TIME": [
@@ -1305,6 +1304,35 @@
 				"type": "Point",
 				"coordinates": [
 					37.7565, -122.41849
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"ID": "47e9a3694701f4ac0cfc8623d49ef6c0",
+				"type": "permanent",
+				"EVENT_NAME": "",
+				"ORGANIZATION_NAME": "NEXT Village SF",
+				"WEB_ADDRESS": "https://nextvillagesf.org/",
+				"ADDRESS": "704 Filbert St, San Francisco, CA 94133",
+				"EVENT_DESCRIPTION": [
+					"NEXT Village SF is a neighborhood nonprofit providing services and support that empower members to live independently in their own homes as they age. Our volunteers and staff work together to enrich, enhance, and nourish the lives of seniors in our community. As a vibrant, growing network for aging adults in northeast San Francisco, NEXT Village SF is a connection you can count on. Everyday, we work to build caring communities that dignify aging and honor our desire to age in the place we call home."
+				],
+				"EVENT_TIME": [
+					"M-F (9a-6p)"
+				],
+				"EVENT_REQUIREMENTS": [
+					"Age 18+, background check, live in San Francisco or nearby"
+				],
+				"REQUIREMENTS_LINK": "",
+				"SIGNUP_LINK": "https://nextvillagesf.org/become-a-volunteer/",
+				"START_DATE": "",
+				"END_DATE": ""
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					37.80115, -122.41164
 				]
 			}
 		}
